@@ -1,0 +1,12 @@
+{
+  "name": "rodrigopg",
+  "description": "Personal Claude Code plugins by Rodrigo Gonçalves",
+  "owner": { "name": "Rodrigo Gonçalves" },
+  "plugins": [
+    {
+      "name": "whatsapp-mcp",
+      "source": { "source": "github", "repo": "rodrigopg/whatsapp-mcp" },
+      "description": "WhatsApp for Claude — messages, media, groups, transcription"
+    }
+  ]
+}
