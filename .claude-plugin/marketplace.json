@@ -28,6 +28,22 @@
         "repo": "rodrigopg/claude-skill-github-branch-protection"
       },
       "description": "Protect GitHub branches against direct pushes \u2014 native protection or Actions workaround per plan"
+    },
+    {
+      "name": "easypanel",
+      "source": {
+        "source": "github",
+        "repo": "rodrigopg/claude-easypanel-skill"
+      },
+      "description": "Manage and diagnose EasyPanel services via Playwright \u2014 deploys, failures, build logs"
+    },
+    {
+      "name": "keepass",
+      "source": {
+        "source": "github",
+        "repo": "rodrigopg/keepass-claude-skill"
+      },
+      "description": "KeePass database management via keepassxc-cli \u2014 search, add, edit, merge duplicates, OS secret store auth"
     }
   ]
 }
