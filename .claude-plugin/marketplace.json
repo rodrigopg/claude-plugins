@@ -44,6 +44,22 @@
         "url": "https://github.com/rodrigopg/keepass-claude-skill.git"
       },
       "description": "KeePass database management via keepassxc-cli — search, add, edit, merge duplicates, OS secret store auth"
+    },
+    {
+      "name": "discli",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/rodrigopg/discli.git"
+      },
+      "description": "Discord server management CLI for AI agents — channels, roles, messages, embeds, emojis, one command per API call"
+    },
+    {
+      "name": "proxmox",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/rodrigopg/proxmox-skill.git"
+      },
+      "description": "Proxmox VE hypervisor primitives via pve CLI — VMs, snapshots, clones, VNC console automation (private repo)"
     }
   ]
 }
