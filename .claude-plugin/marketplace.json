@@ -1,49 +1,49 @@
 {
   "name": "rodrigopg",
-  "description": "Personal Claude Code plugins by Rodrigo Gon\u00e7alves",
+  "description": "Personal Claude Code plugins by Rodrigo Gonçalves",
   "owner": {
-    "name": "Rodrigo Gon\u00e7alves"
+    "name": "Rodrigo Gonçalves"
   },
   "plugins": [
     {
       "name": "whatsapp-mcp",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/whatsapp-mcp"
+        "source": "git",
+        "url": "https://github.com/rodrigopg/whatsapp-mcp.git"
       },
-      "description": "WhatsApp for Claude \u2014 messages, media, groups, transcription"
+      "description": "WhatsApp for Claude — messages, media, groups, transcription"
     },
     {
       "name": "prime-context",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/claude-skill-prime-context"
+        "source": "git",
+        "url": "https://github.com/rodrigopg/claude-skill-prime-context.git"
       },
-      "description": "On-demand project context loading \u2014 thin AGENTS.md router, area context files loaded only when needed"
+      "description": "On-demand project context loading — thin AGENTS.md router, area context files loaded only when needed"
     },
     {
       "name": "github-branch-protection",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/claude-skill-github-branch-protection"
+        "source": "git",
+        "url": "https://github.com/rodrigopg/claude-skill-github-branch-protection.git"
       },
-      "description": "Protect GitHub branches against direct pushes \u2014 native protection or Actions workaround per plan"
+      "description": "Protect GitHub branches against direct pushes — native protection or Actions workaround per plan"
     },
     {
       "name": "easypanel",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/claude-easypanel-skill"
+        "source": "git",
+        "url": "https://github.com/rodrigopg/claude-easypanel-skill.git"
       },
-      "description": "Manage and diagnose EasyPanel services via Playwright \u2014 deploys, failures, build logs"
+      "description": "Manage and diagnose EasyPanel services via Playwright — deploys, failures, build logs"
     },
     {
       "name": "keepass",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/keepass-claude-skill"
+        "source": "git",
+        "url": "https://github.com/rodrigopg/keepass-claude-skill.git"
       },
-      "description": "KeePass database management via keepassxc-cli \u2014 search, add, edit, merge duplicates, OS secret store auth"
+      "description": "KeePass database management via keepassxc-cli — search, add, edit, merge duplicates, OS secret store auth"
     }
   ]
 }
