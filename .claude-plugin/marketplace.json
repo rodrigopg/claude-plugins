@@ -12,6 +12,14 @@
         "repo": "rodrigopg/whatsapp-mcp"
       },
       "description": "WhatsApp for Claude \u2014 messages, media, groups, transcription"
+    },
+    {
+      "name": "prime-context",
+      "source": {
+        "source": "github",
+        "repo": "rodrigopg/claude-skill-prime-context"
+      },
+      "description": "On-demand project context loading \u2014 thin AGENTS.md router, area context files loaded only when needed"
     }
   ]
 }
