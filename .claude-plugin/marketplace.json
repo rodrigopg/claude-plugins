@@ -8,7 +8,7 @@
     {
       "name": "whatsapp-mcp",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/whatsapp-mcp.git"
       },
       "description": "WhatsApp for Claude — messages, media, groups, transcription"
@@ -16,7 +16,7 @@
     {
       "name": "prime-context",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/claude-skill-prime-context.git"
       },
       "description": "On-demand project context loading — thin AGENTS.md router, area context files loaded only when needed"
@@ -24,7 +24,7 @@
     {
       "name": "github-branch-protection",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/claude-skill-github-branch-protection.git"
       },
       "description": "Protect GitHub branches against direct pushes — native protection or Actions workaround per plan"
@@ -32,7 +32,7 @@
     {
       "name": "easypanel",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/claude-easypanel-skill.git"
       },
       "description": "Manage and diagnose EasyPanel services via Playwright — deploys, failures, build logs"
@@ -40,7 +40,7 @@
     {
       "name": "keepass",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/keepass-claude-skill.git"
       },
       "description": "KeePass database management via keepassxc-cli — search, add, edit, merge duplicates, OS secret store auth"
@@ -48,7 +48,7 @@
     {
       "name": "discli",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/discli.git"
       },
       "description": "Discord server management CLI for AI agents — channels, roles, messages, embeds, emojis, one command per API call"
@@ -56,7 +56,7 @@
     {
       "name": "proxmox",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/rodrigopg/proxmox-skill.git"
       },
       "description": "Proxmox VE hypervisor primitives via pve CLI — VMs, snapshots, clones, VNC console automation (private repo)"
@@ -64,7 +64,7 @@
     {
       "name": "protheus-smartview",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/tbc-servicos/claude-smartview-mcp.git"
       },
       "description": "Talk to Protheus through SmartView reports — ask in natural language, get real data back (private repo)"
