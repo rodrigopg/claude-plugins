@@ -60,6 +60,14 @@
         "url": "https://github.com/rodrigopg/proxmox-skill.git"
       },
       "description": "Proxmox VE hypervisor primitives via pve CLI — VMs, snapshots, clones, VNC console automation (private repo)"
+    },
+    {
+      "name": "protheus-smartview",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/tbc-servicos/claude-smartview-mcp.git"
+      },
+      "description": "Talk to Protheus through SmartView reports — ask in natural language, get real data back (private repo)"
     }
   ]
 }
