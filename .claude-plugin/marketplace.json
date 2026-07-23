@@ -9,8 +9,7 @@
       "name": "whatsapp-mcp",
       "source": {
         "source": "github",
-        "repo": "rodrigopg/whatsapp-mcp",
-        "ref": "feat/claude-plugin-marketplace"
+        "repo": "rodrigopg/whatsapp-mcp"
       },
       "description": "WhatsApp for Claude \u2014 messages, media, groups, transcription"
     }
