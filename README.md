@@ -1,5 +1,7 @@
 # claude-plugins
 
+[![validate](https://github.com/rodrigopg/claude-plugins/actions/workflows/validate.yml/badge.svg)](https://github.com/rodrigopg/claude-plugins/actions/workflows/validate.yml)
+
 Personal **Claude Code plugin marketplace** by Rodrigo Gonçalves — plugins and skills for WhatsApp (MCP), KeePass password management, EasyPanel deploys, Discord server management, Proxmox VE, GitHub branch protection and on-demand project context.
 
 ## Usage

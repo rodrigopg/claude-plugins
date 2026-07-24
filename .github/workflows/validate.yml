@@ -1,0 +1,25 @@
+name: validate
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate marketplace.json
+        run: |
+          python3 - <<'EOF'
+          import json, sys
+          m = json.load(open('.claude-plugin/marketplace.json'))
+          assert m['name'] and m['plugins'], 'name and plugins are required'
+          names = [p['name'] for p in m['plugins']]
+          assert len(names) == len(set(names)), f'duplicate plugin names: {names}'
+          for p in m['plugins']:
+              assert p.get('description'), f"{p['name']}: missing description"
+              s = p['source']
+              assert s['source'] == 'url' and s['url'].startswith('https://'), f"{p['name']}: source must be an https url"
+          print(f"OK: {len(names)} plugins valid")
+          EOF
