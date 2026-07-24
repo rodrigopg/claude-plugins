@@ -1,6 +1,6 @@
 # claude-plugins
 
-Personal Claude Code plugin marketplace by Rodrigo Gonçalves.
+Personal **Claude Code plugin marketplace** by Rodrigo Gonçalves — plugins and skills for WhatsApp (MCP), KeePass password management, EasyPanel deploys, Discord server management, Proxmox VE, GitHub branch protection and on-demand project context.
 
 ## Usage
 

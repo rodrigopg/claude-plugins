@@ -11,7 +11,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/whatsapp-mcp.git"
       },
-      "description": "WhatsApp for Claude — messages, media, groups, transcription"
+      "description": "WhatsApp for Claude — messages, media, groups, transcription",
+      "category": "communication",
+      "tags": [
+        "whatsapp",
+        "mcp",
+        "messaging",
+        "media",
+        "transcription"
+      ]
     },
     {
       "name": "prime-context",
@@ -19,7 +27,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/claude-skill-prime-context.git"
       },
-      "description": "On-demand project context loading — thin AGENTS.md router, area context files loaded only when needed"
+      "description": "On-demand project context loading — thin AGENTS.md router, area context files loaded only when needed",
+      "category": "productivity",
+      "tags": [
+        "context",
+        "agents-md",
+        "claude-md",
+        "token-efficiency",
+        "memory"
+      ]
     },
     {
       "name": "github-branch-protection",
@@ -27,7 +43,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/claude-skill-github-branch-protection.git"
       },
-      "description": "Protect GitHub branches against direct pushes — native protection or Actions workaround per plan"
+      "description": "Protect GitHub branches against direct pushes — native protection or Actions workaround per plan",
+      "category": "devops",
+      "tags": [
+        "github",
+        "branch-protection",
+        "ci",
+        "security",
+        "pull-requests"
+      ]
     },
     {
       "name": "easypanel",
@@ -35,7 +59,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/claude-easypanel-skill.git"
       },
-      "description": "Manage and diagnose EasyPanel services via Playwright — deploys, failures, build logs"
+      "description": "Manage and diagnose EasyPanel services via Playwright — deploys, failures, build logs",
+      "category": "devops",
+      "tags": [
+        "easypanel",
+        "deploy",
+        "docker",
+        "infrastructure",
+        "troubleshooting"
+      ]
     },
     {
       "name": "keepass",
@@ -43,7 +75,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/keepass-claude-skill.git"
       },
-      "description": "KeePass database management via keepassxc-cli — search, add, edit, merge duplicates, OS secret store auth"
+      "description": "KeePass database management via keepassxc-cli — search, add, edit, merge duplicates, OS secret store auth",
+      "category": "security",
+      "tags": [
+        "keepass",
+        "passwords",
+        "credentials",
+        "secrets",
+        "keepassxc"
+      ]
     },
     {
       "name": "discli",
@@ -51,7 +91,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/discli.git"
       },
-      "description": "Discord server management CLI for AI agents — channels, roles, messages, embeds, emojis, one command per API call"
+      "description": "Discord server management CLI for AI agents — channels, roles, messages, embeds, emojis, one command per API call",
+      "category": "communication",
+      "tags": [
+        "discord",
+        "cli",
+        "channels",
+        "roles",
+        "automation"
+      ]
     },
     {
       "name": "proxmox",
@@ -59,7 +107,15 @@
         "source": "url",
         "url": "https://github.com/rodrigopg/proxmox-skill.git"
       },
-      "description": "Proxmox VE hypervisor primitives via pve CLI — VMs, snapshots, clones, VNC console automation (private repo)"
+      "description": "Proxmox VE hypervisor primitives via pve CLI — VMs, snapshots, clones, VNC console automation (private repo)",
+      "category": "infrastructure",
+      "tags": [
+        "proxmox",
+        "hypervisor",
+        "vm",
+        "snapshots",
+        "vnc"
+      ]
     },
     {
       "name": "protheus-smartview",
@@ -67,7 +123,15 @@
         "source": "url",
         "url": "https://github.com/tbc-servicos/claude-smartview-mcp.git"
       },
-      "description": "Talk to Protheus through SmartView reports — ask in natural language, get real data back (private repo)"
+      "description": "Talk to Protheus through SmartView reports — ask in natural language, get real data back (private repo)",
+      "category": "data",
+      "tags": [
+        "protheus",
+        "smartview",
+        "totvs",
+        "reports",
+        "erp"
+      ]
     }
   ]
 }
