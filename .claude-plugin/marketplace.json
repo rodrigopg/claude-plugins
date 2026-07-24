@@ -132,6 +132,22 @@
         "reports",
         "erp"
       ]
+    },
+    {
+      "name": "pr-monitor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rodrigopg/pr-monitor-skill.git"
+      },
+      "description": "Autonomous adversarial PR review + monitoring — persistent monitors, risk-scoped reviewers, code-verified findings, disciplined merges (private repo)",
+      "category": "devops",
+      "tags": [
+        "github",
+        "pull-requests",
+        "code-review",
+        "monitoring",
+        "automation"
+      ]
     }
   ]
 }

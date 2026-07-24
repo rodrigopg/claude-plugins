@@ -30,3 +30,4 @@ Install a plugin:
 | [discli](https://github.com/rodrigopg/discli) | Discord server management CLI for AI agents — channels, roles, messages, embeds, emojis. Requires the `discli` CLI installed. |
 | proxmox | Proxmox VE hypervisor primitives via `pve` CLI — VMs, snapshots, clones, VNC console automation. *Private repo — install requires access.* |
 | protheus-smartview | Talk to Protheus through SmartView reports — ask in natural language, get real data back. *Private repo — install requires access.* |
+| pr-monitor | Autonomous adversarial PR review + monitoring — persistent monitors, risk-scoped reviewers, code-verified findings. *Private repo — install requires access.* |
