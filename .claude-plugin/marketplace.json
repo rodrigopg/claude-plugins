@@ -148,6 +148,23 @@
         "monitoring",
         "automation"
       ]
+    },
+    {
+      "name": "dokploy-manager",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rodrigopg/dokploy-manager.git"
+      },
+      "description": "Manage Dokploy via its REST API — deploy apps, manage databases/domains, check status. Includes an Easypanel migration skill (private repo)",
+      "category": "devops",
+      "tags": [
+        "dokploy",
+        "easypanel",
+        "deploy",
+        "infrastructure",
+        "docker",
+        "migration"
+      ]
     }
   ]
 }
