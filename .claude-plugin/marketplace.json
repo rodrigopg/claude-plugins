@@ -165,6 +165,22 @@
         "docker",
         "migration"
       ]
+    },
+    {
+      "name": "spec-anchored-delivery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rodrigopg/claude-skill-spec-anchored-delivery.git"
+      },
+      "description": "Spec-anchored feature delivery (W1) — Reversa scoping, measured blast radius, parallel agent-team delivery, spec writeback for drift detection (requires Reversa: npx reversa install)",
+      "category": "productivity",
+      "tags": [
+        "reversa",
+        "spec-driven-development",
+        "agent-teams",
+        "delivery",
+        "code-review"
+      ]
     }
   ]
 }
