@@ -32,3 +32,4 @@ Install a plugin:
 | protheus-smartview | Talk to Protheus through SmartView reports — ask in natural language, get real data back. *Private repo — install requires access.* |
 | pr-monitor | Autonomous adversarial PR review + monitoring — persistent monitors, risk-scoped reviewers, code-verified findings. *Private repo — install requires access.* |
 | [shipspec](https://github.com/rodrigopg/claude-skill-shipspec) | Ship fast, keep the spec (W1) — Reversa scoping, measured blast radius, parallel agent-team delivery, spec writeback. Requires [Reversa](https://github.com/sandeco/reversa) (`npx reversa install`). |
+| [mcp-brazil-marketplaces](https://github.com/rodrigopg/mcp-brazil-marketplaces) | Search public listings on OLX Brasil and Mercado Livre — MCP server with automatic anti-bot bypass. Runs via `uvx` from PyPI, no clone needed. |
