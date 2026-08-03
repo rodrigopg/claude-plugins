@@ -181,6 +181,22 @@
         "delivery",
         "code-review"
       ]
+    },
+    {
+      "name": "mcp-brazil-marketplaces",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rodrigopg/mcp-brazil-marketplaces.git"
+      },
+      "description": "Search public listings on OLX Brasil and Mercado Livre — MCP server with automatic anti-bot bypass, runs via uvx from PyPI",
+      "category": "data",
+      "tags": [
+        "mcp",
+        "olx",
+        "mercado-livre",
+        "marketplace",
+        "brazil"
+      ]
     }
   ]
 }
