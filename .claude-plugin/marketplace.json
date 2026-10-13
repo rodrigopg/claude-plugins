@@ -181,6 +181,23 @@
         "marketplace",
         "brazil"
       ]
+    },
+    {
+      "name": "warden",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/rodrigopg/warden-ops.git",
+        "path": "plugin"
+      },
+      "description": "Corporate Vaultwarden (vault.dataagile.com.br) — credential reads via rbw, member/collection admin via bw",
+      "category": "security",
+      "tags": [
+        "vaultwarden",
+        "bitwarden",
+        "rbw",
+        "passwords",
+        "credentials"
+      ]
     }
   ]
 }
