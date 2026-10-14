@@ -185,11 +185,10 @@
     {
       "name": "warden",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/rodrigopg/warden-ops.git",
-        "path": "plugin"
+        "source": "github",
+        "repo": "rodrigopg/warden-plugin"
       },
-      "description": "Corporate Vaultwarden (vault.dataagile.com.br) — credential reads via rbw, member/collection admin via bw",
+      "description": "Vaultwarden/Bitwarden in your agent harness — credential reads via rbw, org member admin via bw",
       "category": "security",
       "tags": [
         "vaultwarden",
