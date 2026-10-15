@@ -185,8 +185,8 @@
     {
       "name": "warden",
       "source": {
-        "source": "github",
-        "repo": "rodrigopg/warden-plugin"
+        "source": "url",
+        "url": "https://github.com/rodrigopg/warden-plugin.git"
       },
       "description": "Vaultwarden/Bitwarden in your agent harness — credential reads via rbw, org member admin via bw",
       "category": "security",
