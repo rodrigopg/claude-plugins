@@ -197,6 +197,22 @@
         "passwords",
         "credentials"
       ]
+    },
+    {
+      "name": "falacomigo",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rodrigopg/falacomigo.git"
+      },
+      "description": "Claude Code speaks its answers out loud, per session — neural voices, short spoken summaries, stop button (private repo)",
+      "category": "productivity",
+      "tags": [
+        "voice",
+        "tts",
+        "speech",
+        "accessibility",
+        "edge-tts"
+      ]
     }
   ]
 }
