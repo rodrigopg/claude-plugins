@@ -35,3 +35,4 @@ Install a plugin:
 | [mcp-brazil-marketplaces](https://github.com/rodrigopg/mcp-brazil-marketplaces) | Search public listings on OLX Brasil and Mercado Livre — MCP server with automatic anti-bot bypass. Runs via `uvx` from PyPI, no clone needed. |
 | warden | Vaultwarden/Bitwarden in your agent harness — credential reads via `rbw`, org member admin via `bw` ([rodrigopg/warden-plugin](https://github.com/rodrigopg/warden-plugin)). |
 | falacomigo | Claude Code speaks its answers out loud, per session — neural voices, short spoken summaries of long answers, stop button. *Private repo — install requires access.* |
+| reply-style | Terse, focus-friendly reply format — `Next step` on every message, status as Done/Missing/Decision, active every session via hook. |
