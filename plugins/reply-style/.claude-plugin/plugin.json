@@ -1,5 +1,9 @@
 {
   "name": "reply-style",
   "version": "1.0.0",
-  "description": "Terse, focus-friendly reply format, active every session"
+  "description": "Terse, focus-friendly reply format, active every session",
+  "author": {
+    "name": "Rodrigo Gonçalves"
+  },
+  "license": "MIT"
 }
