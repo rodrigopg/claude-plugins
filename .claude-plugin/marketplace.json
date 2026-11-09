@@ -213,6 +213,18 @@
         "accessibility",
         "edge-tts"
       ]
+    },
+    {
+      "name": "reply-style",
+      "source": "./plugins/reply-style",
+      "description": "Terse, focus-friendly reply format — Next step on every message, status as Done/Missing/Decision, active every session",
+      "category": "productivity",
+      "tags": [
+        "style",
+        "communication",
+        "focus",
+        "status"
+      ]
     }
   ]
 }

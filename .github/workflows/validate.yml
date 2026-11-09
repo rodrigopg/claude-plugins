@@ -20,6 +20,10 @@ jobs:
           for p in m['plugins']:
               assert p.get('description'), f"{p['name']}: missing description"
               s = p['source']
+              if isinstance(s, str):
+                  import os
+                  assert s.startswith('./') and os.path.isdir(s), f"{p['name']}: relative source must be an existing ./ directory"
+                  continue
               assert s['source'] == 'url' and s['url'].startswith('https://'), f"{p['name']}: source must be an https url"
           print(f"OK: {len(names)} plugins valid")
           EOF
